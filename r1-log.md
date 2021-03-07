@@ -1,5 +1,4 @@
 # #100DaysOfCode Log - Round 1 - 79 academy
-
 The log of my #100DaysOfCode challenge. Started on [March 8, Monday, 2021].
 
 ## Log
