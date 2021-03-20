@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [March 8, Monday, 2021].
 ## Log
 
 ### R1D0
-Preparing my 100 days of code
+Preparing my 100 days of code, changed round 1 log
 
 ### R1D1
 ### R1D2
